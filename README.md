@@ -14,6 +14,6 @@ The scraper has been tested with the following [Birmingham Quality](https://birm
 * Urinary Catecholamines & Metabolites
 
 # Update 21st December 2020
-The NEQAS-results-scraper was posted on the [ACB mailbase on 21st December](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A2=ind2012&L=ACB-CLIN-CHEM-GEN&O=D&P=51575)
+The NEQAS-results-scraper was posted on the [Association for Clinical Biochemistry and Laboratory Medicine (ACB) mailbase on 21st December](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A2=ind2012&L=ACB-CLIN-CHEM-GEN&O=D&P=51575)
 
 Shortly afterwards, [UKNEQAS announced](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A2=ind2012&L=ACB-CLIN-CHEM-GEN&O=D&P=52983) that they would meet with interested parties with a view to make EQA data more accessible to laboratories.
